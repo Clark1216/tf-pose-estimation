@@ -1,5 +1,9 @@
 # tf-pose-estimation
 
+## Important Information
+**Note: This project herein is just for showing up in Github. Pls refer to same one from [Gitlab](https://gitlab.com/learning_ai_modules/tf_pose_estimation.git) for usage because that one has complete DL model files without file size limits.**
+
+## About
 'Openpose' for human pose estimation have been implemented using Tensorflow. It also provides several variants that have made some changes to the network structure for **real-time processing on the CPU or low-power embedded devices.**
 
 
